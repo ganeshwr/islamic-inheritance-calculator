@@ -1,0 +1,144 @@
+{
+  "app": {
+    "title": "Kalkulator Waris Islam",
+    "subtitle": "Hitung bagian waris sesuai Al-Quran dan Sunnah",
+    "footer": {
+      "built": "Dibuat dengan sumber Islam yang autentik • Hanya untuk tujuan edukasi",
+      "consult": "Konsultasikan dengan ulama yang berkompeten untuk keputusan hukum nyata"
+    }
+  },
+  "header": {
+    "about": "Tentang",
+    "language": "Bahasa"
+  },
+  "about": {
+    "title": "Tentang Kalkulator Ini",
+    "purpose": {
+      "title": "Tujuan",
+      "description": "Kalkulator waris Islam ini membantu umat Muslim memahami dan menghitung bagian waris sesuai Al-Quran dan Sunnah yang autentik. Menyediakan perhitungan Faraid yang akurat dengan penjelasan yang jelas dan dalil syariah."
+    },
+    "sources": {
+      "title": "Sumber Islam",
+      "quran": "Al-Quran (Surah An-Nisa 4:11-12, 176)",
+      "hadith": "Hadits Shahih dari Bukhari dan Muslim",
+      "consensus": "Ijma' Ahlus Sunnah wal Jamaah",
+      "fatwas": "Fatwa dari ulama terpercaya (Ibn Baz, Lajnah Da'imah)"
+    },
+    "features": {
+      "title": "Fitur Utama",
+      "fardh": "Perhitungan Fardh (bagian tetap) yang akurat",
+      "asabah": "Distribusi Asabah (ahli waris sisa)",
+      "hajb": "Implementasi aturan Hajb (penghalang)",
+      "aul": "Aul (pengurangan proporsional) bila diperlukan",
+      "education": "Penjelasan edukatif dengan dalil syariah"
+    },
+    "disclaimer": {
+      "title": "⚠️ Peringatan Penting",
+      "text": "Alat ini hanya untuk tujuan edukasi. Meskipun mengikuti sumber Islam yang autentik, silakan konsultasikan dengan ulama atau hakim yang berkompeten untuk keputusan hukum nyata dan kasus waris yang kompleks."
+    }
+  },
+  "form": {
+    "title": "Anggota Keluarga",
+    "subtitle": "Tambahkan semua anggota keluarga yang masih hidup yang terlibat dalam warisan",
+    "userRole": {
+      "title": "Peran Anda",
+      "placeholder": "Pilih hubungan Anda dengan almarhum"
+    },
+    "estate": {
+      "title": "Informasi Harta Warisan",
+      "value": "Total Nilai Harta (opsional)",
+      "valuePlaceholder": "Masukkan total nilai harta warisan",
+      "gender": "Jenis Kelamin Almarhum",
+      "male": "Laki-laki",
+      "female": "Perempuan"
+    },
+    "members": {
+      "title": "Tambah Anggota Keluarga",
+      "rolePlaceholder": "Pilih peran anggota keluarga",
+      "namePlaceholder": "Nama (opsional)",
+      "addButton": "Tambah Anggota"
+    },
+    "calculate": "Hitung Warisan"
+  },
+  "results": {
+    "title": "Hasil Perhitungan Warisan",
+    "aulNotice": "⚠️ Ini adalah kasus Aul - total bagian Fardh melebihi 100%",
+    "backButton": "← Mulai Perhitungan Baru",
+    "summary": {
+      "title": "Ringkasan Distribusi",
+      "totalHeirs": "Total Ahli Waris:",
+      "totalDistributed": "Total Terdistribusi:",
+      "estateValue": "Nilai Harta:"
+    },
+    "shares": {
+      "title": "Bagian Warisan Individual",
+      "viewEvidence": "Lihat Dalil Syariah"
+    },
+    "calculationSummary": "Ringkasan Perhitungan",
+    "shareDetails": {
+      "title": "Detail Warisan",
+      "share": "Bagian:",
+      "type": "Jenis:",
+      "amount": "Jumlah:",
+      "ruling": "Hukum Islam",
+      "quranicRef": "Referensi Al-Quran",
+      "hadithRef": "Referensi Hadits"
+    }
+  },
+  "tree": {
+    "title": "Pohon Warisan Keluarga",
+    "legend": {
+      "inherits": "Mewarisi",
+      "blocked": "Terhalang",
+      "fardh": "Fardh (Bagian Tetap)",
+      "asabah": "Asabah (Sisa)"
+    }
+  },
+  "roles": {
+    "father": "Ayah almarhum",
+    "mother": "Ibu almarhum",
+    "paternal_grandfather": "Kakek dari ayah",
+    "paternal_grandmother": "Nenek dari ayah",
+    "maternal_grandmother": "Nenek dari ibu",
+    "husband": "Suami almarhum",
+    "wife": "Istri almarhum",
+    "son": "Anak laki-laki almarhum",
+    "daughter": "Anak perempuan almarhum",
+    "full_brother": "Saudara kandung laki-laki",
+    "full_sister": "Saudara kandung perempuan",
+    "paternal_brother": "Saudara seayah",
+    "paternal_sister": "Saudara seayah perempuan",
+    "maternal_brother": "Saudara seibu laki-laki",
+    "maternal_sister": "Saudara seibu perempuan",
+    "paternal_uncle": "Paman dari ayah",
+    "paternal_nephew": "Anak laki-laki saudara",
+    "grandson_son": "Cucu laki-laki dari anak laki-laki",
+    "granddaughter_son": "Cucu perempuan dari anak laki-laki"
+  },
+  "roleLabels": {
+    "father": "Ayah",
+    "mother": "Ibu",
+    "son": "Anak Laki",
+    "daughter": "Anak Perempuan",
+    "husband": "Suami",
+    "wife": "Istri",
+    "full_brother": "Saudara",
+    "full_sister": "Saudari",
+    "paternal_brother": "Sdr.Seayah",
+    "paternal_sister": "Sdri.Seayah",
+    "maternal_brother": "Sdr.Seibu",
+    "maternal_sister": "Sdri.Seibu",
+    "paternal_grandfather": "Kakek",
+    "paternal_grandmother": "Nenek Ayah",
+    "maternal_grandmother": "Nenek Ibu",
+    "paternal_uncle": "Paman",
+    "paternal_nephew": "Keponakan",
+    "grandson_son": "Cucu Laki",
+    "granddaughter_son": "Cucu Perempuan"
+  },
+  "common": {
+    "close": "Tutup",
+    "blocked": "Terhalang",
+    "unknown": "Tidak Diketahui"
+  }
+}

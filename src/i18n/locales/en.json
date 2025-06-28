@@ -1,0 +1,144 @@
+{
+  "app": {
+    "title": "Islamic Inheritance Calculator",
+    "subtitle": "Calculate inheritance shares according to Quran and Sunnah",
+    "footer": {
+      "built": "Built with authentic Islamic sources • For educational purposes only",
+      "consult": "Consult qualified Islamic scholars for real legal decisions"
+    }
+  },
+  "header": {
+    "about": "About",
+    "language": "Language"
+  },
+  "about": {
+    "title": "About This Calculator",
+    "purpose": {
+      "title": "Purpose",
+      "description": "This Islamic inheritance calculator helps Muslims understand and calculate inheritance shares according to the Quran and authentic Sunnah. It provides accurate Faraid calculations with clear explanations and Shariah evidence."
+    },
+    "sources": {
+      "title": "Islamic Sources",
+      "quran": "Quran (Surah An-Nisa 4:11-12, 176)",
+      "hadith": "Authentic Hadith from Bukhari and Muslim",
+      "consensus": "Consensus of Ahlus Sunnah wal Jamaah",
+      "fatwas": "Fatwas from trusted scholars (Ibn Baz, Lajnah Da'imah)"
+    },
+    "features": {
+      "title": "Key Features",
+      "fardh": "Accurate Fardh (fixed shares) calculations",
+      "asabah": "Asabah (residuary heirs) distribution",
+      "hajb": "Hajb (blocking) rules implementation",
+      "aul": "Aul (proportional reduction) when needed",
+      "education": "Educational explanations with Shariah evidence"
+    },
+    "disclaimer": {
+      "title": "⚠️ Important Disclaimer",
+      "text": "This tool is for educational purposes only. While it follows authentic Islamic sources, please consult a qualified Islamic scholar or judge for real-world legal decisions and complex inheritance cases."
+    }
+  },
+  "form": {
+    "title": "Family Members",
+    "subtitle": "Add all living family members involved in the inheritance",
+    "userRole": {
+      "title": "Your Role",
+      "placeholder": "Select your relationship to the deceased"
+    },
+    "estate": {
+      "title": "Estate Information",
+      "value": "Total Estate Value (optional)",
+      "valuePlaceholder": "Enter total estate value",
+      "gender": "Deceased Gender",
+      "male": "Male",
+      "female": "Female"
+    },
+    "members": {
+      "title": "Add Family Members",
+      "rolePlaceholder": "Select family member role",
+      "namePlaceholder": "Name (optional)",
+      "addButton": "Add Member"
+    },
+    "calculate": "Calculate Inheritance"
+  },
+  "results": {
+    "title": "Inheritance Calculation Results",
+    "aulNotice": "⚠️ This is an Aul case - total Fardh shares exceed 100%",
+    "backButton": "← Start New Calculation",
+    "summary": {
+      "title": "Distribution Summary",
+      "totalHeirs": "Total Heirs:",
+      "totalDistributed": "Total Distributed:",
+      "estateValue": "Estate Value:"
+    },
+    "shares": {
+      "title": "Individual Inheritance Shares",
+      "viewEvidence": "View Shariah Evidence"
+    },
+    "calculationSummary": "Calculation Summary",
+    "shareDetails": {
+      "title": "Inheritance Details",
+      "share": "Share:",
+      "type": "Type:",
+      "amount": "Amount:",
+      "ruling": "Islamic Ruling",
+      "quranicRef": "Quranic Reference",
+      "hadithRef": "Hadith Reference"
+    }
+  },
+  "tree": {
+    "title": "Family Inheritance Tree",
+    "legend": {
+      "inherits": "Inherits",
+      "blocked": "Blocked",
+      "fardh": "Fardh (Fixed Share)",
+      "asabah": "Asabah (Residuary)"
+    }
+  },
+  "roles": {
+    "father": "Father of the deceased",
+    "mother": "Mother of the deceased",
+    "paternal_grandfather": "Father's father",
+    "paternal_grandmother": "Father's mother",
+    "maternal_grandmother": "Mother's mother",
+    "husband": "Husband of the deceased",
+    "wife": "Wife of the deceased",
+    "son": "Son of the deceased",
+    "daughter": "Daughter of the deceased",
+    "full_brother": "Full brother (same father and mother)",
+    "full_sister": "Full sister (same father and mother)",
+    "paternal_brother": "Paternal half-brother (same father)",
+    "paternal_sister": "Paternal half-sister (same father)",
+    "maternal_brother": "Maternal half-brother (same mother)",
+    "maternal_sister": "Maternal half-sister (same mother)",
+    "paternal_uncle": "Father's brother",
+    "paternal_nephew": "Brother's son",
+    "grandson_son": "Son's son",
+    "granddaughter_son": "Son's daughter"
+  },
+  "roleLabels": {
+    "father": "Father",
+    "mother": "Mother",
+    "son": "Son",
+    "daughter": "Daughter",
+    "husband": "Husband",
+    "wife": "Wife",
+    "full_brother": "Brother",
+    "full_sister": "Sister",
+    "paternal_brother": "P.Brother",
+    "paternal_sister": "P.Sister",
+    "maternal_brother": "M.Brother",
+    "maternal_sister": "M.Sister",
+    "paternal_grandfather": "P.Grandfather",
+    "paternal_grandmother": "P.Grandmother",
+    "maternal_grandmother": "M.Grandmother",
+    "paternal_uncle": "Uncle",
+    "paternal_nephew": "Nephew",
+    "grandson_son": "Grandson",
+    "granddaughter_son": "Granddaughter"
+  },
+  "common": {
+    "close": "Close",
+    "blocked": "Blocked",
+    "unknown": "Unknown"
+  }
+}
